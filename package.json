@@ -1,0 +1,21 @@
+{
+  "name": "rest-mongoose-sample",
+  "version": "1.0.0",
+  "description": "MongoDB with Mongoose on Node.js example",
+  "main": "index.js",
+  "engines": {
+    "node": "4.1.1",
+    "npm": "2.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "authors": [
+    "Sergey Sharipov"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "4.1.0",
+    "restify": "4.3.1"
+  }
+}
